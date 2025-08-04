@@ -1,4 +1,7 @@
 
+Pre Requirements:
+Python3.10 and Node 24
+
 **Run the app:**
 
    ```bash
